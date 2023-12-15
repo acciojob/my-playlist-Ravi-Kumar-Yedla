@@ -23,11 +23,15 @@ a{
 
 
 .player_one{
-
 	background-color: rgb(255, 255, 255);
-	padding; border-radius;
+	padding:20px;
+	border-radius: 5px;
 }
-
+.player_two{
+	background-color: rgb(255, 255, 255);
+	padding:20px;
+	border-radius: 5px;
+}
 	
 /* 	.media-container{
 		border:2px solid black;
